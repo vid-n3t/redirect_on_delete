@@ -4,6 +4,7 @@
 
 
 ### Helpful code snips
+- http://pages.uoregon.edu/vid/2011/12/01/drupal-6-capture-the-alias-and-path_redirects-upon-deleting-a-node/
 - (http://stackoverflow.com/questions/5009221/looking-for-a-drupal-module-that-will-redirect-pathauto-urls-when-a-node-is-dele/5013664#5013664)
 
 		hook_nodeapi() $op == 'delete' 
